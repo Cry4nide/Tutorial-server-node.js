@@ -1,3 +1,0 @@
-mismo estoy leyendo:
-	http://howtonode.org/deploy-blog-to-heroku
-
